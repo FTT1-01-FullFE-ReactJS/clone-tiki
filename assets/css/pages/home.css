@@ -6,32 +6,32 @@
 /* =============================================== */
 /* ========== STYLESHEET SECTION BANNER ========== */
 /* =============================================== */
-.section-banner-top .container-section-wrap {
+.banner-top .container-section-wrap {
     display: flex;
     align-items: center;
 }
 
-.container-section-wrap .section-banner-top-left {
+.container-section-wrap .banner-top-left {
    flex: 0 0 824px;
    max-width: 824px;
    height: 274px;
    overflow: hidden;
 }
 
-.section-banner-top-left .banner-link,
-.section-banner-top-right .banner-link {
+.banner-top-left .banner-link,
+.banner-top-right .banner-link {
     display: block;
     width: 100%;
     height: 274px;
 }
 
-.section-banner-top-left .banner-link .banner-image,
-.section-banner-top-right .banner-link .banner-image {
+.banner-top-left .banner-link .banner-image,
+.banner-top-right .banner-link .banner-image {
     width: 100%;
     height: 100%;
 }
 
-.container-section-wrap .section-banner-top-right {
+.container-section-wrap .banner-top-right {
     flex: 1;
     overflow: hidden;
     height: 274px;
